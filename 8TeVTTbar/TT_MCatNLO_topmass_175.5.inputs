@@ -204,7 +204,7 @@ EVPREFIX=ttb
 # prefix for the NLO and MC executables
 EXEPREFIX=ttb
 # number of events; set it to 0 to skip the event generation step
-NEVENTS=500
+NEVENTS=25000000
 # 0 for weights=+1/-1, 1 for weights whose sum is the total rate
 WGTTYPE=1
 # seed for random numbers in the generation of events. 0 is default
